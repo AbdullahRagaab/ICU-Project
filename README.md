@@ -42,14 +42,6 @@ It supports multiple user roles and integrates real-time updates and notificatio
 
 ---
 
-## 📱 Screenshots
-
-*(Add screenshots of your app here — for example:)*  
-`/assets/screenshots/login.png`  
-`/assets/screenshots/dashboard.png`
-
----
-
 ## 📦 Installation
 
 1. Clone this repository:
