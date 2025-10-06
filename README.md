@@ -1,7 +1,6 @@
 # 🏥 ICU Project
 
-This project is a **Flutter application** designed for managing and monitoring activities in an **Intensive Care Unit (ICU)** environment.
-
+This project is a Flutter application named "ICU_Project" designed for managing and monitoring activities in an Intensive Care Unit (ICU) environment. It supports multiple user roles such as super admin, admin, nurse, doctor, and head nurse, providing tailored interfaces and functionalities for each. The app integrates with Firebase for notifications, uses socket connections for real-time updates, and includes modules for patient details, nurse and doctor management, pill reminders, x-ray and medical test tracking, and more. Its goal is to streamline ICU operations, improve communication, and enhance patient care through digital tools.
 ---
 
 ## 🚀 Overview
